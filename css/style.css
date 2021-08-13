@@ -58,9 +58,15 @@ body{
     width: 70%;
     position: relative;
 }
+.footer .social-media img{
+    width: 30px;
+}
 @media only screen and (max-width: 780px) {
     .logo img{
         width: 30%;
+    }
+    .content img{
+        width: 90%;
     }
     .content h1{
         font-size: 30px;
